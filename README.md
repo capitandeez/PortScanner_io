@@ -108,4 +108,4 @@ We welcome **responsible disclosure** of security issues and feature requests. S
 
 ---
 
-This description maintains a **professional tone**, emphasizes **legal compliance**, and clearly outlines **safety protocols** while showcasing the tool’s capabilities. Let me know if you'd like any refinements!
+
